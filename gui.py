@@ -37,6 +37,7 @@ email = Label(top, text = "Email").place(x = 30, y = 90)
   
 password = Label(top, text = "Password").place(x = 30, y = 130)
 
+
 e1 = Entry(top).place(x = 80, y = 50)  
   
   
